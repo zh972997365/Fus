@@ -45,13 +45,7 @@ git clone https://github.com/yourusername/Fus.git
 cd Fus
 ```
 
-### 2. 安装依赖
-
-```bash
-go mod download
-```
-
-### 3. 配置文件
+### 2. 配置文件
 
 在项目根目录创建 `.env` 文件：
 
@@ -66,7 +60,7 @@ AUTH_USERS=admin:admin123, user1:password1
 UPLOAD_PATH=./storage/data
 ```
 
-### 4. 运行服务
+### 3. 运行服务
 
 ```bash
 go run main.go
