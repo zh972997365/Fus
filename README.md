@@ -206,24 +206,6 @@ admin:admin123, john:pass123, jane:secret
 - 确认密码输入正确
 - 查看浏览器 Cookie 设置
 
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-## 📄 开源协议
-
-本项目采用 MIT 协议，详见 [LICENSE](LICENSE) 文件。
-
-## 📧 联系方式
-
-如有问题或建议，请通过 Issue 联系我们。
-
 ---
 
 **注意**：生产环境使用时，请确保：
