@@ -31,7 +31,7 @@ storage/
 ### Docker
 ```
 # Docker部署：
-git clone https://github.com/zhanghao123321/Fus.git
+git clone https://github.com/zh972997365/Fus.git
 cd Fus
 docker build -t fus-app:latest .
 docker run -d  --name fus -p 8888:8080 
